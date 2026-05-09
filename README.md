@@ -1,5 +1,4 @@
-# 💫 About Me:
-FULL STACK JAVA WEB DEVELOPER<br>Currently working on IoT NETWORK SECURITY based project
+
 
 
 ## 🌐 Socials:
